@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "N763BS62WL.com.technisys.petersen.individuos",
+        "components": [
+          { "/": "/modo/*" },
+          { "/": "/qualia/*" }
+        ]
+      }
+    ]
+  }
+}
